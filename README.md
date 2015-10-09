@@ -3,7 +3,7 @@ Hello World Personal Page
 
 A stylish and personable webpage to tell the world about yourself. View the [demo page](http://timpotter.github.io/hello-world-page/). 
 
-![alt text](http://tejpotter.com/projects/hello-world-page/background.jpg "Hello World Personal Page by Sarah Jane Owens")
+![alt text](http://tejpotter.com/projects/hello-world-page/background.jpg "Hello World Personal Page by Tim Potter")
 
 
 
@@ -19,7 +19,7 @@ You can use the default background image or set a custom image of your choice. F
 <body>
 ```
 
-![alt text](http://tejpotter.com/projects/hello-world-page/vanilla.jpg "Hello World Personal Page by Sarah Jane Owens")
+![alt text](http://tejpotter.com/projects/hello-world-page/vanilla.jpg "Hello World Personal Page by Tim Potter")
 
 ###Add your avatar 
 
